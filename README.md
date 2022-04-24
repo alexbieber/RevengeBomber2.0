@@ -1,7 +1,23 @@
-## RevengeBomber2.0 🔴🔴🔴🔴🔴🔴🔴🔴🔴
+## REVENGEBOMBER2.0 🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
-<h1 align="center">RevengeBomber2.0</h1>
-<p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/AlexBieber/RevengeBomber"><img src="https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg" alt="RevengeBomber"></a>
+  <br>
+  RevengeBomber2.0🔴🔴🔴🔴
+  <br>
+</h1>
+
+
+##
+
+<h3 align="center">
+:: Workflow ::
+</h3>
+<p align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnetcorecloud.com%2Ftutorials%2Femail-spam-bot%2F&psig=AOvVaw0_q7u7dooD9FAOzF8eBR4G&ust=1650906826853000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDH_quZrfcCFQAAAAAdAAAAABAe"/>
+</p>
+ <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## About Tool:
 
@@ -74,3 +90,18 @@ src="https://github.com/AlexBieber/RevengeBomber2.0/blob/main/master/RevengeBomb
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
+  
+  
+## YOU CAN BUY ME A COFFEE-->  <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## LOVE YOU 3000!🔴
+
+  
+  ### Find Me on :
+<p align="left">
+  <a href="https://github.com/alexbieber" target="_blank"><img src="https://img.shields.io/badge/Github-Alex--Bieber-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/alexbieber1234" target="_blank"><img src="https://img.shields.io/badge/IG-%40alexbieber1234-red?style=for-the-badge&logo=instagram"></a>
+</p>
+
+
+## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/alexbieber1234)
