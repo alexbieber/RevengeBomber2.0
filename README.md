@@ -15,7 +15,7 @@
 :: Workflow ::
 </h3>
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnetcorecloud.com%2Ftutorials%2Femail-spam-bot%2F&psig=AOvVaw0_q7u7dooD9FAOzF8eBR4G&ust=1650906826853000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDH_quZrfcCFQAAAAAdAAAAABAe"/>
+<img src="https://images.prismic.io/pepipost/e3269b46-fa9c-4a6f-945a-eccc268cd2dd_types+of+emails+scam.gif?auto=compress,format"/>
 </p>
  <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
