@@ -54,9 +54,13 @@
 * `pkg install git`
 * `git clone https://github.com/AlexBieber/RevengeBomber2.0`
 * `ls`
+* `Now in root permission do`
 * `cd RevengeBomber2.0`
 * `pip2 install requirements.txt`
 * `chmod +x RevengeBomber2.0.sh`
+
+* `now open a new terminal again and without giving root permission` 
+* `cd RevengeBomber2.0`
 * `./RevengeBomber.sh Or bash RevengeBomber2.0.sh`
 
 ## INSTALLATION [Kali Linux] :
