@@ -7,6 +7,13 @@
   RevengeBomber2.0🔴🔴🔴🔴
   <br>
 </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/alexbieber/RevengeBomber2.0?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/alexbieber/RevengeBomber2.0?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/alexbieber/RevengeBomber2.0?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/alexbieber/RevengeBomber2.0?color=teal&style=for-the-badge">
+</p>
 
 
 ##
@@ -115,3 +122,16 @@ src="https://github.com/AlexBieber/RevengeBomber2.0/blob/main/master/RevengeBomb
   </a>
 </p>
 # Donate your money and it will inspire soo many people to live their life.
+
+
+ ## THANKS!  
+   Enjoy ✔
+ ## 
+    🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴      🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴🔴🔴  🔴  🔴    🔴  🔴  🔴    🔴  🔴    🔴__\         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# THANKS FOR USING! LOVE YOU 3000!🔴🔴🔴🔴✔
+
