@@ -75,7 +75,7 @@
 * `ls`
 * `Now in root permission do`
 * `cd RevengeBomber2.0`
-* `pip2 install requirements.txt`
+* `pip install -r requirements.txt`
 * `chmod +x RevengeBomber2.0.sh`
 
 * `now open a new terminal again and without giving root permission` 
