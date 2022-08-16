@@ -48,6 +48,10 @@
 - Kali Linux
 - macOS
 
+## VIDEO TUTORIAL FOR KALI LINUX USERS----
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qDqeSkAV4aw/0.jpg)](https://www.youtube.com/watch?v=qDqeSkAV4aw)
+
 ## Test On:
 - Termux
 - Mi Note 9 pro
