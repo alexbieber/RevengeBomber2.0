@@ -16,6 +16,11 @@ from io import BytesIO
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# Always resolve relative project files from this script's directory,
+# not from the shell's current working directory or the user's home.
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+os.chdir(SCRIPT_DIR)
+
 from utils.decorators import MessageDecorator
 from utils.provider import APIProvider
 
